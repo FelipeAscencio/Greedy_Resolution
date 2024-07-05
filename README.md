@@ -41,7 +41,7 @@ In this folder are all the tests used for the project, both those provided by th
 # Explanation of execution
 
 To execute the programs and check their operation, you must follow the following steps:
-- Download the "ReadyToExecute" folder in its entirety.
+- Download the "ReadyToRun" folder in its entirety.
 - Enter from the "Linux" console (Or the operating system of preference with its own commands) to the downloaded directory.
 - Execute the command "python3 tp1.py", "python3 graphics.py" or "python3 examplenames.py" depending on the program you want to use.
 
