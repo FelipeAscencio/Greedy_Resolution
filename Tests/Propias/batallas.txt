@@ -1,0 +1,6 @@
+Templo Aire del Este, 5, 40 
+Tribu del Agua del Norte, 20, 37 
+Isla de Kyoshi, 9, 17 
+Ba Sing Se, 25, 10 
+Omashu, 7, 8 
+Tribu del Agua del Sur, 3, 5
