@@ -43,7 +43,7 @@ In this folder are all the tests used for the project, both those provided by th
 To execute the programs and check their operation, you must follow the following steps:
 - Download the "ReadyToRun" folder in its entirety.
 - Enter from the "Linux" console (Or the operating system of preference with its own commands) to the downloaded directory.
-- Execute the command "python3 tp1.py", "python3 graphics.py" or "python3 examplenames.py" depending on the program you want to use.
+- Execute the command "python3 tp1.py", "python3 graficos.py" or "python3 ejemplonombres.py" depending on the program you want to use.
 
 ## Program "tp1.py"
 
@@ -59,7 +59,7 @@ After entering the file name, the program will run to solve the sum and print th
 
 This program allows us to create graphics with the "Matplotlib" tool.
 
-Once the command "python3 graphics.py" has been executed, the program will ask for the name of the file that you want to use for the sum to be performed. This must respect the structure provided by "the tests of the chair."
+Once the command "python3 graficos.py" has been executed, the program will ask for the name of the file that you want to use for the sum to be performed. This must respect the structure provided by "the tests of the chair."
 
 The file name must be entered without the ".txt", for example, if you wanted to use the file named "10.txt", you should only enter it through the "10" terminal.
 
