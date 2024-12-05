@@ -1,7 +1,5 @@
 # Greedy Algorithms in the Fire Nation.
 
----
-
 ## Introduction
 
 In this project we sought to solve a problem that is presented to us in a "Greedy" way.
